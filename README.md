@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning scripting languages
 - 📫 How to reach me saranemail2805@gmail.com
 - 📫 How to reach me saran.cs20@bitsathy.ac.in
-- Linkedin : https://www.linkedin.com/in/saransenthilkumar/
+-  Linkedin : https://www.linkedin.com/in/saransenthilkumar/
